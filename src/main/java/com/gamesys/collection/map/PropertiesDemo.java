@@ -4,7 +4,7 @@ import java.util.*;
 
 public class PropertiesDemo {
 
-    public static void property(int[] a) {
+    public static void main(String[] args) {
         Properties properties = new Properties();
 
         properties.put("abc", 999);
